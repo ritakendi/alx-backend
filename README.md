@@ -12,4 +12,4 @@ This repository contains programs for the ALX Back-End curriculum at Holberton S
 
 ## Author
 
-- **Ojok Simon Peter** - [afandojok](https:///github.com/jokmonsimon)
+- **Kendi Rita** - [https://github.com/ritakendi)
